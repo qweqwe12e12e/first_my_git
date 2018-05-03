@@ -10,10 +10,14 @@
 </head>
 	<body>
 			<ol>
-				<li>첫번째 리스트</li>
-				<li>첫번째 리스트</li>
-				<li>첫번째 리스트</li>
-				<li>첫번째 리스트</li>
+				<li> 리스트</li>
+				<li> 리스트</li>
+				<li> 리스트</li>
+				<li> 리스트</li>
+				<li> 리스트</li>
+				<li> 리스트</li>
+				<li> 리스트</li>
+				<li> 리스트</li>
 			</ol>
 	</body>
 	<script>
