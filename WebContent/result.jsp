@@ -9,7 +9,11 @@
 	</style>
 </head>
 	<body>
-		
+		<list>
+			<ul>
+				<li>첫번째 리스트</li>
+			</ul>
+		</list>
 	</body>
 	<script>
 	</script>
