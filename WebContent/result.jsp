@@ -9,15 +9,9 @@
 	</style>
 </head>
 	<body>
-		<list>
 			<ul>
 				<li>첫번째 리스트</li>
-				<li>두번쨰 리스트</li>
-				<li>세번째 리스트</li>
-				<li>네번쨰 리스트</li>
-				<li>다섯번째 리스트</li>
 			</ul>
-		</list>
 	</body>
 	<script>
 	</script>
