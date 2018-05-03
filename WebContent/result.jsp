@@ -17,6 +17,17 @@
 				<li>다섯번째 리스트</li>
 			</ul>
 			<p>리스트 추가 그만</p>
+			<ol>
+				<li> 리스트</li>
+				<li> 리스트</li>
+				<li> 리스트</li>
+				<li> 리스트</li>
+				<li> 리스트</li>
+				<li> 리스트</li>
+				<li> 리스트</li>
+				<li> 리스트</li>
+			</ol>
+			<p>리스트 마감</p>
 	</body>
 	<script>
 	</script>
